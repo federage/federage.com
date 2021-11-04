@@ -22,7 +22,6 @@
 
 <footer class="max-w-4xl mx-auto mt-20 p-6">
 	<div class="text-3xl text-gray-800">federage, groupement d’intérêt économique</div>
-	<div class="text-gray-400">Dernier commit : e9bde668d3j38f49200555d78a8b239x19845320</div>
 </footer>
 
 <style>
